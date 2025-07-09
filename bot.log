@@ -1,0 +1,46 @@
+2025-07-10 00:36:47,815 - binance_bot - ERROR - API key and/or secret not found in .env file. Exiting.
+2025-07-10 00:46:55,279 - binance_bot - ERROR - API key and/or secret not found in .env file. Exiting.
+2025-07-10 00:47:05,957 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:47:05,958 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:47:06,282 - binance_bot - ERROR - API Connection Error: 404 - None
+2025-07-10 00:47:06,283 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:49:24,411 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:49:24,411 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:49:24,412 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:49:37,600 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:49:37,601 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:49:37,601 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:51:17,393 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:51:17,394 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:51:17,394 - binance_bot - ERROR - A detailed error occurred during connection check: 'Client' object has no attribute 'futures_account_info'
+2025-07-10 00:51:17,394 - binance_bot - ERROR - Error Type: AttributeError
+2025-07-10 00:51:17,395 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:51:34,166 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:51:34,166 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:51:34,167 - binance_bot - ERROR - A detailed error occurred during connection check: 'Client' object has no attribute 'futures_account_info'
+2025-07-10 00:51:34,167 - binance_bot - ERROR - Error Type: AttributeError
+2025-07-10 00:51:34,167 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:52:59,625 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:52:59,626 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:53:00,243 - binance_bot - ERROR - API Connection Error: 404 - None
+2025-07-10 00:53:00,243 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:53:29,417 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:53:29,417 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:53:30,052 - binance_bot - ERROR - API Connection Error: 404 - None
+2025-07-10 00:53:30,052 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:56:00,791 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com
+2025-07-10 00:56:00,792 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:56:01,416 - binance_bot - ERROR - API Connection Error: 404 - None
+2025-07-10 00:56:01,417 - binance_bot - ERROR - Failed to initialize bot. Please check connection and credentials.
+2025-07-10 00:56:11,044 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com/fapi
+2025-07-10 00:56:11,045 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:56:11,637 - binance_bot - INFO - Successfully connected to Binance Futures API.
+2025-07-10 00:56:51,011 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com/fapi
+2025-07-10 00:56:51,012 - binance_bot - INFO - Bot initialized.
+2025-07-10 00:56:51,863 - binance_bot - INFO - Successfully connected to Binance Futures API.
+2025-07-10 00:56:52,371 - binance_bot - INFO - Account balance for USDT: 15000.00000000
+2025-07-10 01:01:08,469 - binance_bot - INFO - Client configured for Futures Testnet: https://testnet.binancefuture.com/fapi
+2025-07-10 01:01:08,470 - binance_bot - INFO - Bot initialized.
+2025-07-10 01:01:09,195 - binance_bot - INFO - Successfully connected to Binance Futures API.
+2025-07-10 01:01:09,198 - binance_bot - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-07-10 01:01:09,408 - binance_bot - INFO - Order placed successfully.
